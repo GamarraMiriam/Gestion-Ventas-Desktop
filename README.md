@@ -1,5 +1,7 @@
 # 🛒 Sistema de Gestión de Ventas (Desktop)
 
+> 💡 Proyecto desarrollado durante mi formación en Desarrollo de Software. Si bien actualmente me oriento al análisis de datos, este trabajo demuestra manejo de bases de datos relacionales (SQL Server) y pensamiento estructurado — habilidades que aplico hoy en la limpieza, modelado y consulta de datos con Python y SQL.
+
 ### 📝 Descripción
 Aplicación de escritorio desarrollada para la gestión integral de ventas, clientes y productos. El sistema permite administrar la información de manera estructurada, facilitando el registro de operaciones comerciales y la emisión de comprobantes.
 
